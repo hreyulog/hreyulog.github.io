@@ -89,6 +89,7 @@ about:
 
 ## Конференции и семинары
 
+- **[Научный семинар Лаборатории имени А. А. Маркова Санкт-Петербургского государственного университета](https://markov-lab.ru/seminars/modelirovaniye-dinamiki-mneniy-po-tsifrovym-sledam-onlayn-soobshchestva-i-programmnyye-repozitorii/)**. Санкт-Петербург, Россия, 2026.
 - **[Пятый семинар по генерации, оценке и метрикам (GEM 2026)](https://aclanthology.org/2026.gem-main.55/)**. Сан-Диего, Калифорния, США, 2026.
 - **[Семинар Центра теории игр Санкт-Петербургского государственного университета](https://apmath.spbu.ru/1416-seminar-tsentra-teorii-igr-spbgu.html)**. Санкт-Петербург, Россия, 2026.
 - **[Mathematical Optimization Theory and Operations Research (MOTOR 2026)](https://conference.icc.ru/event/9/page/66-about)**. Иркутск, Россия, 2026.

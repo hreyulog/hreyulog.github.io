@@ -88,6 +88,7 @@ about:
 
 ## 会议与研讨会
 
+- **[圣彼得堡国立大学马尔可夫实验室学术研讨会](https://markov-lab.ru/en/seminars/modeling-opinion-dynamics-from-digital-traces-online-communities-and-software-repositories/)**，俄罗斯圣彼得堡，2026年。
 - **[第五届生成、评估与度量研讨会（GEM 2026）](https://aclanthology.org/2026.gem-main.55/)**，美国加利福尼亚州圣迭戈，2026年。
 - **[圣彼得堡国立大学博弈论中心研讨会](https://apmath.spbu.ru/1416-seminar-tsentra-teorii-igr-spbgu.html)**，俄罗斯圣彼得堡，2026年。
 - **[数学优化理论与运筹学会议（MOTOR 2026）](https://conference.icc.ru/event/9/page/66-about)**，俄罗斯伊尔库茨克，2026年。
