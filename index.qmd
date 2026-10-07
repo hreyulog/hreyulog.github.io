@@ -51,6 +51,9 @@ Opinion Dynamics, Code Embedding Models (Knowledge Distillation, Quantization, D
 
 ## Projects
 
+- **[Sofia: Personal AI Assistant for HarmonyOS](https://sofia-admin-dev.dra.agchosting.link/)**
+  - Supports natural conversation, cross-app task execution, and collaboration across devices linked to the same Huawei account
+
 - **Code Embedding Model** (2023-2025)
   - Implemented knowledge distillation and data augmentation, achieved best result (61.22) on CoIR Hybrid Code Benchmark 2024
   - Built multi-level model evaluation system, developed ArkTS language parser based on tree-sitter, collected and cleaned ArkTS dataset

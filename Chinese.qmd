@@ -51,6 +51,9 @@ about:
 
 ## 项目经历
 
+- **[Sofia：面向鸿蒙的个人 AI 助理](https://sofia-admin-dev.dra.agchosting.link/)**
+  - 支持自然对话、跨应用任务执行，以及同一华为账号下的多设备协作
+
 - **代码嵌入模型**（2023-2025）
   - 实现知识蒸馏与数据增强，在CoIR Hybrid Code Benchmark 2024取得最佳成绩（61.22）
   - 构建多层级模型评估体系，基于tree-sitter开发ArkTS语言解析器，收集清洗ArkTS数据集
